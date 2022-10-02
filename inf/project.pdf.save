@@ -1,0 +1,16 @@
+###########################
+###########################
+###########################
+
+
+//if input == text eraise everything and add  a
+        // other waise just add a to it 
+        if (Input.Text == "Text")
+            {
+            Input.Text = "";
+            Input.Text = "a";
+            }
+        else
+            {
+            Input.Text += "a";
+            }

@@ -1,0 +1,14 @@
+Investigar:
+
+¿Que es una base de datos?
+
+Respuesta : Es un systema el cual permite guardar 
+
+informacion de manera organizada y nos permite acceder a ella luego por medio de connecion a internet 
+
+¿Tipos de Base de Datos? Clasificación de las Base de Datos?
+
+Respuesta : 
+
+¿Cual es la importancia de las bases de datos en el desarrollo tecnologico y 
+de aplicaciones?

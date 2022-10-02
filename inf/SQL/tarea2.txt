@@ -1,0 +1,54 @@
+Investigar:
+
+¿Que es una base de datos?
+
+Respuesta : Es un systema el cual permite guardar 
+
+informacion de manera organizada y nos permite acceder a ella luego por medio de connecion a internet 
+
+¿Tipos de Base de Datos? Clasificación de las Base de Datos?
+
+Respuesta : 
+
+	Tipos de Base de datos :
+Bases de datos de autogestión
+Bases de datos de documentos/JSON
+Base de datos multimodelo
+Bases de datos en la nube
+Bases de datos de código abierto
+Bases de datos OLTP.
+Bases de datos orientadas a grafos
+Bases de datos NoSQL.
+Almacenes de datos
+Bases de datos distribuidas
+Bases de datos orientadas a objetos
+Bases de datos relacionales.
+
+	Clasificaciones :
+
+BBDD Estáticas
+BBDD Dinámicas
+Bases de Datos Bibliográficas
+Bases de datos de texto completo
+Directorios
+Bases de datos jerárquicas
+Base de datos de red
+Bases de datos Transaccionales
+Bases de datos relacionales
+Bases de datos multidimensionales
+Base de datos orientadas a objetos
+Bases de datos documentales
+Bases de datos deductivas
+
+
+¿Cual es la importancia de las bases de datos en el desarrollo tecnologico y 
+de aplicaciones?
+
+Respuesta:
+
+Considero que la mayor importancia es actualmente el poder guardar en la nuve la informacion de los usuarios y de que 
+se pueda documentar y analizar el comportamiento de las aplicaciones o tambien comunicarlas entre ellas mismas por medio de el internetl.  
+
+
+
+
