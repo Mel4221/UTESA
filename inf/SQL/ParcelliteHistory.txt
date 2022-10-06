@@ -1,0 +1,46 @@
+NHIST_0000 Bases de datos de autogestión
+NHIST_0001 Bases de datos de documentos/JSON
+NHIST_0002 Base de datos multimodelo
+NHIST_0003 Bases de datos en la nube
+NHIST_0004 Bases de datos de código abierto
+NHIST_0005 Bases de datos OLTP.
+NHIST_0006 Bases de datos orientadas a grafos
+NHIST_0007 Bases de datos NoSQL.
+NHIST_0008 Almacenes de datos
+NHIST_0009 Bases de datos distribuidas
+NHIST_0010 Bases de datos orientadas a objetos
+NHIST_0011 Bases de datos relacionales. 
+NHIST_0012 convert xc:none -page Letter a.pdf
+
+NHIST_0013 touch a.txt && convert a.txt -page Letter a.pdf
+
+NHIST_0014 ¿Tipos de Base de Datos?
+NHIST_0015 ¿Tipos de Base de Datos? Clasificación de las Base de Datos.
+
+
+NHIST_0016 ¿Que es una base de datos?
+
+
+NHIST_0017 Investigar:
+
+¿Que es una base de datos?
+
+¿Tipos de Base de Datos? Clasificación de las Base de Datos.
+
+¿Cual es la importancia de las bases de datos en el desarrollo tecnologico y de aplicaciones? [Opinion Personal]
+NHIST_0018 x-special/nautilus-clipboard
+copy
+file:///media/mel/3535-1A08/Pictures
+
+NHIST_0019 x-special/nautilus-clipboard
+copy
+file:///media/mel/3535-1A08/Pictures
+
+NHIST_0020 x-special/nautilus-clipboard
+cut
+file:///media/mel/3535-1A08/Pictures
+
+NHIST_0021 GNU
+NHIST_0022 create-react-app
+NHIST_0023 npm install -g npm@8.12.2
+NHIST_0024 umount
