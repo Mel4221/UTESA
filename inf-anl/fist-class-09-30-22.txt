@@ -4,12 +4,12 @@ Enlistar los processos por medio de analisis de flujo
 Importancia de hacer un analicis y levantamiento de Projecto
 
 notas y vocabulario:
-Agile
-Scrum
-UML 
-SOW
-GAN
-SLA
+Agile = tipo de desarrollo
+Scrum = tipo de desaarrollo
+UML = herramienta
+SOW = tipo de documento
+GAN = tipo de desarrollo 
+SLA =  Service-level Agreement 
 
 
 
